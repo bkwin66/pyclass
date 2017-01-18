@@ -1,0 +1,7 @@
+- pynet-rtr1
+- Cisco881
+- ip_addr: 184.105.247.70
+  password: 88newclass
+  snmp_port: '161'
+  ssh_port: '22'
+  username: pyclass
